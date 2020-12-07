@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            h1 {
+                color:rgb(94, 99, 6);
+            }
+            
+            h2 {
+                background-color:rgb(33, 107, 235);
+            }
+            
+            body {
+                background-color:rgb(228, 255, 122);
+            }
+            
+        </style>
+    </head>
+    <body>
+    <h1>Sztokholm - zwiedzanie miasta</h1>
+    <h2>Spis tresci:</h2>
+    <p>    
+        <ul>
+            <li><a href="#s">Sztokholm</a></li>
+            <li><a href="#cwzws">Co warto zobaczyć w Sztokholmie?</a></li>
+        </ul> <p>
+    
+    <h2 id="s">Sztokholm</h2>
+    <p>
+    Sztokhlm to stolica Szwecji, a zarazem jej największe miasto. Siedziba rządu i parlamentu Szwecji oraz szweckiej rodziny królewskiej. Sztokholm położony jest na 14 wyspach, które połączone są ze sobą 53 mostami oraz lądzie stałym. Obszar stołeczny Sztokholmu obejmuje m.in. archipelag sztokholmski, czyli 24 000 wysp, wysepek i skał przybrzeżnych. Te uwarunkowania sprawiły, że miasto bywa nazywane Wenecją Północy.</p>
+    <img src="https://i.wpimg.pl/O/644x429/d.wpimg.pl/1070231468-455238597/sztokholm.jpg">
+    
+    <h2 id="cwzws">Co warto zobaczyć w Sztokholmie?</h2>
+    <p>
+        <ul>
+            <li>Muzeum Vasa - muzeum morskie z XVII wiecznym                   okrętem</li>
+            <img src="https://lh5.googleusercontent.com/proxy/FNwV_QRHxnfm5oTJhoNmABO-jgcBTxVeuyeMqjwFMpCd6cj6WBo58d_-qdzH6-ljRTfCKc_Q8bBlHPqdPk_Zo6m1hB1waRmbSGtudHb4GzdOkOix63l-aZreZKxkxi6eisXBxgnTkv1aNKkVPO35h8o9FLxA4LV1DhAlyA2lBdTX=w370-h253-n-k-no">
+            <li>Pałac królewski</li>
+            <img src="https://lh4.googleusercontent.com/proxy/iOCrVMRaoBltgP4gBRsXUKw_6zlRUGpVOKlnaLqrovFOh2Gw7qP0Yp1wKY89PIHzCzC1Dkr_9y-rYk__4dXRrDGNgv0iuelRvSUt7kGIBogRJBrM1uOhajm4L22QKRwxaO4IAG0WG33vdeolpp1DNo8wLBcHioTkemGyzhLrkS2C=w370-h253-n-k-no">
+            <li>Stadshuset - okazały budynek w stylu narodowo                  -romantycznym</li>
+            <img src="https://lh6.googleusercontent.com/proxy/ms3LhYI6kWzvY5GxcD3NgFzY22tyPeIUAtcqSZCgv9LxCd1DBT4OTu9hcgZ_osmdAPw0Oli9uyGKcYlU0OYHXpPx7IDvgl5-TETksAZRGJJF4yuzIHEGGMGU4jlHx2HnVt_651DwaHV5QVfyzPvn3chZ-aqaT7AMIgcRzwegJHSW=w370-h253-n-k-no">
+            <li>Drottningholm - XVII-wieczny zamek królewski z                 ogrodami</li>
+            <img src="https://lh6.googleusercontent.com/proxy/BaXog-MN9GSInV5AX8NkX6ow4WbgsrQaxI10tkAzHLATud6bA3Q4MSQ2EiiCSX6u47WKonJV713qaY5-uPDJkf2Y54EOFEsc1AEC_5dU3_iDpbNdLGfYUavgigJkbHYYemOiiWR-qJgQ9lZFqKa5bLURkvA-wAJcz1OTKbkHSLr-=w370-h253-n-k-no">
+            <li>Rynek w Sztokholmie</li>
+            <img src="https://lh5.googleusercontent.com/proxy/_EoMbDAFYolorADllW3jaNO5yOUyXK2FMZtLpQ73RzbwJOZuvhC9NAnP-ChBy4yULnY44JaYDh3VD2uIy_LyjDyLO00sBr5HmwOjCulN6REKlU3tovPkvxBoiHd8u22fv3J3j6rd0KChuR40ghUJ3OkODwZxyKY_cgxTp51ppU9q=w370-h253-n-k-no">
+            <li>Kościół św. Mikołaja w Sztokholmie</li>
+            <img src="https://lh4.googleusercontent.com/proxy/gwbUh3G1_qJ1tzDZwrcoyY_hdyZ_UMlYLmWxxPHukVaKBY7QEjiaWjQI64yLo7ej6yIX_1AaccreznZx1_XIC0Cj23M5SSMxDFGJhGsbsr2D5g2YCq0EFhAauPc26TwDsjZy9AcLXjqnMeV-QMxfxsDB80yQ5tBW5oB-gi6gbZsQ=w370-h253-n-k-no">
+            <li>Opera Królewska w Sztokholmie</li>
+            <img src="https://lh6.googleusercontent.com/proxy/-fvqaa9ydt0Mfx3RC7_Kusq4l64F0A_BtXcow-9jiMgIaQzg53DRj__KdgGsQW3BIbErtTA_w6KPbRrPD7rloP07b6USIZpXvlubJqf0OnQ549f55WsgmgiRddWv639J01W81W31Np4TN8-liyBs7dKaEjo0HNSSsTwYlVrFRsgL=w580-h325-n-k-no">
+        </ul>
+    
+    </body>
+</html>
